@@ -11,7 +11,7 @@ Only the best of the best will be able to join such events. In order to find out
 
 With this data set, we are going to determine the factors that will lead to the Blue Team winning the match within the Diamond ranks.
 
-![Top features weight](/images/weight.png)
+![Top features weight](/images/weight1.png)
 
 A quick peek at the weighting of each feature, shows that the most influential factor would be the difference in gold between the red and blue teams. Gold is an important resource because you can acquire better items which in then leads to better stats for the champion that you are playing. Following gold, the next influential factor would be experience. As you gain experience, you level up towards the max of 18. Each level up gives you a small stat boost and a skill point. Using these skill points improve one of the 4 skills a champion has.
 
