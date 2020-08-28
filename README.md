@@ -16,3 +16,9 @@ With this data set, we are going to determine the factors that will lead to the 
 A quick peek at the weighting of each feature, shows that the most influential factor would be the difference in gold between the red and blue teams. Gold is an important resource because you can acquire better items which in then leads to better stats for the champion that you are playing. 
 
 ![Features](/images/features.png)
+
+Just like the weighting of the features, the bar graph above also demonstrates that the most important feature is the gold difference.
+
+# Final Thoughts
+
+A quick breakdown of these visualizations show that while it is possible to predict the outcome of the blue team winning, it is not always true. Within a single round, there can be unexpected factors that can turn it from a winning game to a losing one.
