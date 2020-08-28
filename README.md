@@ -19,6 +19,10 @@ A quick peek at the weighting of each feature, shows that the most influential f
 
 Just like the weighting of the features, the bar graph above also demonstrates that the most important feature is the gold difference.
 
+![PDP](/images/pdp.png)
+
+By looking at this Partial Dependence Plot, it is skewed to the right. As long as the blue team is gaining more and more gold, they are clearly gaining an advantage. 
+
 # Final Thoughts
 
 A quick breakdown of these visualizations show that while it is possible to predict the outcome of the blue team winning, it is not always true. Within a single round, there can be unexpected factors that can turn it from a winning game to a losing one.
