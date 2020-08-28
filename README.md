@@ -21,7 +21,7 @@ Just like the weighting of the features, the bar graph above also demonstrates t
 
 ![PDP](/images/pdp.png)
 
-By looking at this Partial Dependence Plot, it is skewed to the right. As long as the blue team is gaining more and more gold, they are clearly gaining an advantage. 
+By looking at this Partial Dependence Plot, it is skewed to the right. As long as the blue team is gaining more and more gold, they are gaining an advantage over the other team, but this can be also be said about the red team.
 
 # Final Thoughts
 
